@@ -18,3 +18,7 @@ The usage is simply:
 ```
 wayback-save URL [URL...]
 ```
+
+### For Many Pages
+
+This script is very slow and is only practical for a very small number of web pages. If you wish to archive full websites then [Archive Team's ArchiveBot](https://www.archiveteam.org/index.php?title=ArchiveBot) is a more practical solution for you. It can crawl websites with up to a few hundred thousand urls.
